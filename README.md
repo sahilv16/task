@@ -13,3 +13,4 @@ cd Project Directory
 npm install
 npm start
 ```
+The project will start running at port http://localhost:3000 
